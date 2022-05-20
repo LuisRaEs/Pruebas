@@ -1,3 +1,5 @@
 Este es un nuevo archivo de texto.
 
 Y sirve para saber como funciona git.
+
+Ahora estoy modificando el archivo.
